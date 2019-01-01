@@ -1,0 +1,11 @@
+{
+    "name": "purescript-integers",
+    "set": "clj-0.1.0-20181230",
+    "source": "https://github.com/pure-clj/package-sets.git",
+    "depends": [
+        "maybe",
+        "functions",
+
+        "assert"
+    ]
+}
